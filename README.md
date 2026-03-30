@@ -207,6 +207,7 @@ Rango de número de reseñas: se creó una agrupación del número de reseñas.
 Rango de precios: también se creó una variable de rango de precios para poder segmentar los datos en el dashboard.
 
 Estas variables permitieron estructurar mejor el análisis y facilitar el uso de filtros interactivos.
+
 ### 3. Construcción de tablas dinámicas
 Se crearon varias tablas dinámicas como base del dashboard:
 
