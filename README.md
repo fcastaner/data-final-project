@@ -200,7 +200,7 @@ Se realizaron algunos ajustes para garantizar la calidad del análisis:
 - Eliminación previa en Python de variables numéricas cuyos valores nulos superasen el 30% del total. 
 - Sustitución previa en Python de valores nulos en el resto de variables numéricas por la mediana
 ### 2. Transformaciones realizadas
-- Creación de variables derivadas para mejorar el análisis de datos:
+Creación de variables derivadas para mejorar el análisis de datos:
   
 Rango de número de reseñas: se creó una agrupación del número de reseñas.
 
