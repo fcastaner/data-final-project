@@ -68,7 +68,7 @@ Una vez creado el dataset final, se revisaron las columnas con mayor cantidad de
 
 ### 1. Eliminación de columnas con alto porcentaje de nulos
 Se aplicó un criterio de eliminación de variables con más del 80% de valores nulos.
-df_final = df_final.drop(columns=cols_to_drop)
+cols_to_drop = null_percentage[null_percentage > 80].index
 
 En este caso, únicamente una variable cumplía este criterio: 'instant_book'.
 
