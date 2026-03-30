@@ -215,7 +215,7 @@ Valores: media de rate_avg
 - Número de reseñas vs ocupación
 Filas: rango de reseñas
 Valores: media de occupancy
-- Distribución de tipos de habitación
+- Distribución de tipos de alojamiento
 Filas: room_type
 Valores: conteo de registros
 Representación: porcentaje sobre el total
