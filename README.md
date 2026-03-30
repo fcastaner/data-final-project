@@ -201,7 +201,9 @@ Se realizaron algunos ajustes para garantizar la calidad del análisis:
 - Sustitución previa en Python de valores nulos en el resto de variables numéricas por la mediana
 ### 2. Transformaciones realizadas
 - Creación de variables derivadas para mejorar el análisis de datos:
+  
 Rango de número de reseñas: se creó una agrupación del número de reseñas.
+
 Rango de precios: también se creó una variable de rango de precios para poder segmentar los datos en el dashboard.
 
 Estas variables permitieron estructurar mejor el análisis y facilitar el uso de filtros interactivos.
