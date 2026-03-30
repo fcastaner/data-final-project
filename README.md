@@ -277,15 +277,23 @@ Permite desplazarse automáticamente hasta los gráficos relacionados con las po
 
 ## Conclusiones finales
 El análisis del mercado de alojamientos en la región Asia-Pacífico, a partir de datos de propiedades registradas en Airbnb, muestra un mercado variado tanto en precios como en comportamiento de la demanda.
-En primer lugar, se observa que la ocupación media es moderada-baja, situándose en torno al 29%, lo que además se refleja en que, de media, los alojamientos registran aproximadamente 9 días reservados al mes frente a 21,5 días vacíos. 
+En primer lugar, se observa que la ocupación media es moderada-baja, situándose en torno al 29%, lo que además se refleja en que, de media, los alojamientos registran aproximadamente 9 días reservados al mes frente a 21,5 días vacíos.
+
 En cuanto al perfil de la oferta, el mercado está dominado por los alojamientos completos. La mayor parte de los alojamientos corresponden a viviendas enteras, mientras que las habitaciones privadas, de hotel o compartidas tienen un peso mucho menor.
+
 Respecto al precio, el precio medio se sitúa en 117$, aunque con una distribución muy asimétrica y con presencia de valores extremos. La mayor parte de los precios medios se concentra aproximadamente entre 30$ y 120$, mientras que los alojamientos muy caros representan una minoría. Por tanto, no puede afirmarse que el mercado analizado sea predominantemente de lujo, sino más bien de precio medio con algunos casos muy premium.
 También se observan diferencias claras de precio según el tipo de propiedad. Las villas y las viviendas enteras presentan los precios medios más elevados, mientras que las habitaciones privadas, los condominios y otros alojamientos compartidos resultan mucho más económicas. Esto confirma que el tipo de propiedad es uno de los factores que más influye en el precio.
+
 Sin embargo, aunque existe una relación positiva entre precio e ingresos, no se observa una relación fuerte entre el precio y la mayoría de variables numéricas. La correlación entre el precio medio y el número de habitaciones o baños existe, pero es débil, y el gráfico de dispersión entre número de habitaciones y precio muestra mucha dispersión. Por tanto, no puede concluirse que a mayor número de habitaciones el precio aumente de forma clara o proporcional. Se observa una ligera relación positiva entre la capacidad del alojamiento y el precio medio. Sin embargo, existe una alta dispersión, por lo que la capacidad no explica por sí sola el precio.
+
 Existen también diferencias relevantes entre países. En el dashboard se observa que Australia, Tailandia y Nueva Zelanda presentan algunos de los precios medios más elevados, mientras que India y Filipinas se sitúan entre los mercados con precios más bajos. Además, a nivel de volumen, los países con mayor presencia de alojamientos son Filipinas, Malasia, Australia y Corea del Sur.
+
 La reputación del alojamiento aparece como un factor relevante. El análisis por rangos de reseñas muestra que, a medida que aumenta el número de reseñas, también aumenta la ocupación media. Esto sugiere que las reseñas del alojamiento influyen de forma importante en su rendimiento.
 Por otro lado, las valoraciones generales son muy altas, con una media de 4,8, lo que sugiere que la mayoría de usuarios tiene valoraciones positivas.
 También se observa que los alojamientos gestionados por superhosts tienen un precio medio ligeramente superior pero la diferencia no es especialmente grande cuando se compara dentro de los principales tipos de alojamiento. Además, casi la totalidad de los alojamientos están gestionados por particulares y no por profesionales.
+
 En cuanto a la regulación, destaca que aproximadamente el 82% de los alojamientos no tienen número de registro, lo que podría reflejar un volumen importante de oferta poco regularizada.
+
 Por último, el análisis del dashboard sugiere que la política de cancelación muestra relación con los ingresos. Las políticas más estrictas tienden a asociarse con ingresos medios más elevados que las políticas flexibles.
+
 En resumen, puede concluirse que el rendimiento de los alojamientos registrados en Airbnb en Asia-Pacífico no depende de un único factor, sino de la combinación de varios elementos: tipo de propiedad, reputación, localización y estrategia de precios. De todos ellos, el tipo de propiedad parece ser el factor más claro a la hora de explicar diferencias de precio, mientras que el número de reseñas destaca especialmente en la explicación de la ocupación.
