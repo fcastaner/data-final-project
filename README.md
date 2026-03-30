@@ -209,27 +209,49 @@ Rango de precios: también se creó una variable de rango de precios para poder 
 Estas variables permitieron estructurar mejor el análisis y facilitar el uso de filtros interactivos.
 ### 3. Construcción de tablas dinámicas
 Se crearon varias tablas dinámicas como base del dashboard:
+
 - Precio medio por país
+  
 Filas: country
+
 Valores: media de rate_avg
+
 - Número de reseñas vs ocupación
+  
 Filas: rango de reseñas
+
 Valores: media de occupancy
+
 - Distribución de tipos de alojamiento
+  
 Filas: room_type
+
 Valores: conteo de registros
+
 Representación: porcentaje sobre el total
+
 - Distribución de políticas de cancelación
+  
 Filas: cancellation_policy
+
 Valores: conteo de registros
+
 Representación: porcentaje sobre el total
+
 - Ingresos medios por política de cancelación
+  
 Filas: cancellation_policy
+
 Valores: media de revenue
+
 - Relación entre precio medio y capacidad del alojamiento
+  
 Variables empleadas:
+
 rate_avg
+
 guests
+
 ### 4. Visualizaciones creadas
 A partir de las tablas dinámicas y de los datos del dataset, se desarrollaron los siguientes gráficos en el dashboard:
 - Gráfico de barras verticales → Precio medio por país
