@@ -119,7 +119,6 @@ Analizamos las variables numéricas más significativas:
 - Ocupación (occupancy): se aprecia que la ocupación es moderada, pues la media se sitúa en un 29% y el 75% de los alojamientos tiene una ocupación menor o igual al 52%.  
 - Precio (rate_avg): la media es 117$, es un precio medio moderado y no tanto de lujo.
 - Ingresos (revenue): la media de los ingresos por alojamiento son de 1072$, sin embargo el máximo se sitúa en 79.956$ y la desviación estándar es elevada. Por lo que hay una gran variabilidad entre los ingresos de los alojamientos y algunos generan ingresos muy superiores al resto. 
-- Estancia media (length_of_stay_avg): la media se sitúa en 5,6 días, y el 75% de las estancias son de 5 o menos días, por lo que la mayoría de los huéspedes suelen alojarse poco tiempo en los diferentes alojamientos.  
 - Valoraciones (rating_overall): la valoración media es de 4,8, por lo que la mayoría de valoraciones suelen ser bastante positivas. 
 - Días reservados (reserved_days): la media de días reservados es de aproximadamente 9 días al mes. De nuevo muestra una ocupación muy baja.
 - Días vacíos/disponibles (vacant_days): la media es de 21,5 días disponibles (vacíos) al mes. Es una cifra muy elevada.
