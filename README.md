@@ -263,9 +263,10 @@ A partir de las tablas dinámicas y de los datos del dataset, se desarrollaron l
 - Gráfico de barras horizontales → Ingresos medios por política de cancelación
 ### 5. Controles de filtro
 Se añadieron controles de filtro para mejorar la exploración de los datos:
-- country
-- tipo de propiedad
-- rango de precios
+- País
+- Tipo de propiedad
+- Rango de precios
+  
 Estos filtros permiten analizar dinámicamente la información según distintos segmentos del mercado.
 ### 6. Creación de macros
 Se implementó una macro para facilitar la navegación a la sección de gráficos de cancelación. 
