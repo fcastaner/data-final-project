@@ -9,6 +9,9 @@ En este proyecto se trabaja con dos datasets relacionados del mercado de Airbnb 
 
 El objetivo es unir ambos conjuntos de datos para construir una base de datos más completa sobre alojamientos y evolución histórica de precios, que sirva como punto de partida para el análisis posterior.
 
+## Datos
+Dado el tamaño de los datasets originales y del dataset final transformado, no se han podido incluir en el repositorio de Github. En su lugar, se ha incluido una muestra representativa de los datos, que es la utilizada en el dashboard de Google Sheets, con el objetivo de facilitar la comprensión del análisis. 
+
 ---
 
 ## Datasets utilizados
